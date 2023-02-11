@@ -1,0 +1,17 @@
+.calc-res-text {
+    display: flex;
+    justify-content: space-between;
+    transition: opacity 0.3s ease-in;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.calc-res-num {
+    display: flex;
+    align-items: center;
+    grid-column-gap: 6px;
+}
+
+.euro-text {
+    opacity: 0.3;
+}
